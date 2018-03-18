@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: lucene-core-3.6.0.jar IKAnalyzer2012_u6.jar
+Main-Class: com.fj2889.chatbot.ChatBot
+
